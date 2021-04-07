@@ -135,8 +135,15 @@ td, th {
 	height: 260px;
 
 }
+
+h3 {
+    font-size: 3rem;
+    margin-bottom: 0;
+    color: #48814C;
+}
+
 p {
-	color: #FDFEFE;
+	color: #000000;
 }
 
 
